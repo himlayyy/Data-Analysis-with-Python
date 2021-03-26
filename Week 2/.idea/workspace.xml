@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e46f0812-48a1-49e7-90c1-4c58c4de0da1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-05-two-dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-06-triple-square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-07-shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-08-quadratic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-09-merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-10-detect-ranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-11-interleave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-12-distinct-characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-13-reverse-dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-14-find-matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-15-two-dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-16-transform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-17-positivelist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-18-acronyms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/1-19-sum-equation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-01-ints-in-brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-02-file-listing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-03-red-green-blue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-04-word-frequencies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-05-summary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-06-file-count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-07-file-extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-08-prepend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-09-rational.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filenames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rgb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pz1PdwSmFfHIBh8cI0ChjteE50" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="2-10-extract-numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Week 2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2-10-extract-numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2-10-extract-numbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e46f0812-48a1-49e7-90c1-4c58c4de0da1" name="Default Changelist" comment="" />
+      <created>1616171082013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616171082013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616171734244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616171734244" />
+    <state x="410" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616171249377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1616171249377" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1616303547679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616303547679" />
+    <state width="1345" height="63" key="GridCell.Tab.0.bottom" timestamp="1616172692540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="63" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616172692540" />
+    <state width="1345" height="63" key="GridCell.Tab.0.center" timestamp="1616172692540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="63" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616172692540" />
+    <state width="1345" height="63" key="GridCell.Tab.0.left" timestamp="1616172692539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="63" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616172692539" />
+    <state width="1345" height="63" key="GridCell.Tab.0.right" timestamp="1616172692540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="63" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616172692540" />
+  </component>
+</project>
